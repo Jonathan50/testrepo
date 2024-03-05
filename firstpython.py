@@ -1,3 +1,3 @@
 #Display the Output
 
-Print("New Python File")
+print("New Python File")
